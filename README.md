@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Portfolio Website - Overview 🚀
 
 **Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, CSS, JavaScript
@@ -23,3 +24,5 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See the LICENSE file for details.
  
 
+=======
+>>>>>>> a89f0c5 (Initial commit)
